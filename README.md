@@ -19,3 +19,4 @@ Aman Modi (arm6433)
 -   Run `pip install delta-spark`
 -   Run `pip install numpy`
 -   Run `python3 ./example.py`
+-   Run `python3 ./main.py`
